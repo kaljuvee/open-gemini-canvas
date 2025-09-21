@@ -6,7 +6,7 @@ authors = [
     {name = "orca-copilotkit",email = "testapp@copilotkit.ai"}
 ]
 readme = "README.md"
-requires-python = ">=3.12,<3.13"
+requires-python = ">=3.11,<3.13"
 dependencies = [
     "google (==3.0.0)",
     "google-genai (==1.28.0)",

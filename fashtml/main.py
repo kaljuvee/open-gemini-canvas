@@ -551,4 +551,4 @@ def placeholder_image(width: int, height: int):
     return Response(svg, media_type="image/svg+xml")
 
 if __name__ == "__main__":
-    serve()
+    serve(port=5002)
