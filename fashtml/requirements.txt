@@ -1,0 +1,6 @@
+python-fasthtml>=0.12.28
+python-multipart>=0.0.20
+uvicorn>=0.21.0
+google-generativeai>=0.3.0
+httpx>=0.24.0
+python-dotenv>=1.0.0
